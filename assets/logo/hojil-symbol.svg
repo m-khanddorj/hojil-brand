@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256"
+     viewBox="500 493 256 256" role="img" aria-labelledby="title">
+  <title id="title">Hojil asterisk</title>
+  <path id="asterisk" fill="#0057fe"
+    d="M605 515H649.5V583.5L707 549L729 588L672.5 622L729 655
+       L707 694L649.5 660V727H605V660L549.5 694.5L527 656
+       L583.5 622L527 588.5L549.5 549.5L605 583.5Z"/>
+</svg>
